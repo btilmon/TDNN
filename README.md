@@ -1,4 +1,4 @@
-# Time Series Forecasting with Time Delay Neural Network
+# Time Series Forecasting with Time-Delayed Neural Network
 
 This is a PyTorch implementation of the Time Delay Neural Network architecture from [[1]](#1) applied to Mackey-Glass time series forecasting. TDNN architectures were a precursor to Recurrent Neural Networks and are still actively researched for speech recognition and time series forecasting. The input to the network is ten previous samples and the network predicts the next sample. 
 
