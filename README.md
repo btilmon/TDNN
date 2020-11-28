@@ -2,7 +2,7 @@
 
 This is an implementation of the Time Delay Neural Network architecture from [[1]](#1) applied to predicting Mackey-Glass time series data. TDNN architectures were a precursor to Recurrent Neural Networks and are still actively researched for speech recognition and time series prediction. The input to the network is ten previous samples and the network predicts the next sample.
 
-![alt text](https://github.com/btilmon/TDNN/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/btilmon/TDNN/blob/master/Figure_1.png)
 
 
 
